@@ -1,10 +1,11 @@
-<!DOCTYPE.html>
-<html>
+<!DOCTYPE html>
+<html lang="vi">
 <head>
- <tile> trang wed dau tien </title>
- <meta charset="utf-8">
- </head>
- <body>
-<h1>xin chao</h1>
+    <meta charset="utf-8">
+    <title>Trang web đầu tiên của em</title>
+</head>
+<body>
+    <h1>Xin chào Thầy và các bạn!</h1>
+    <p>Đây là trang web đầu tiên em tự tay lập trình bằng HTML.</p>
 </body>
 </html>
